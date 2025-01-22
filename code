@@ -1,0 +1,5 @@
+CREATE TABLE navigation (
+    nav_id INT AUTO_INCREMENT PRIMARY KEY,
+    nav_direction VARCHAR(50) NOT NULL,
+    created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+);
