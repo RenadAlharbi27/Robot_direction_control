@@ -1,0 +1,4 @@
+http://localhost/robot_controller_2/index.html
+
+
+http://localhost/robot_controller_2/retrieve_2.php
